@@ -43,6 +43,7 @@ gulp.task('compressHTMLCS', () =>
       `${HTMLCSFolder}/Contrib/Build/umd-header.js`,
       `${HTMLCSFolder}/Standards/**/*.js`,
       `${HTMLCSFolder}/HTMLCS.js`,
+      `${HTMLCSFolder}/Translations/*.js`,
       `${HTMLCSFolder}/HTMLCS.Util.js`,
       `${HTMLCSFolder}/Contrib/Build/umd-footer.js`,
       `${distFolder}/client/runner.js`
