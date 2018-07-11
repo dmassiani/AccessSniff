@@ -39,7 +39,7 @@
     "chalk": "^2.3.1",
     "commander": "^2.14.1",
     "glob": "^7.1.2",
-    "html_codesniffer": "https://github.com/dmassiani/AccessSniff.git",
+    "html_codesniffer": "https://github.com/dmassiani/HTML_CodeSniffer.git",
     "jsdom": "^11.6.2",
     "mkdirp": "^0.5.1",
     "phantomjs-prebuilt": "^2.1.16",
